@@ -1,4 +1,4 @@
-FROM Red Hat:latest
+FROM RedHat:latest
 MAINTAINER sanjay.dahiya332@gmail.com
 RUN yum install -y httpd \
   zip \
